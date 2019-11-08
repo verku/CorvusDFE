@@ -1,7 +1,7 @@
 # CorvusDFE
 Distribution of fitness effects of several species in the genus Corvus
 
-Custom python scripts used in bioinformatics analysis for Kutschera et al.
+Custom python scripts used in bioinformatics analysis for Kutschera et al. 2019 (https://doi.org/10.1093/molbev/msz233)
 
 # findCpGpolymorphism.py
 - Takes a gzipped VCF file containing variant and monomorphic/invariant sites, and finds the positions of CpG, CpA and TpG sites, incl CpG/CpA and TpG/CpG polymorphisms within the resequencing data.
